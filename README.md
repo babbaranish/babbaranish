@@ -3,7 +3,7 @@
 
 ## I'm a Web Developer, and a Noob(ofcourse)!
 
-- 🔭 I’m currently learning
+- 🔭 I’m currently work with MERN Stack.
 - 🥅 2020 Goals: Contribute to Open Source projects, learn UI/UX and Redesign my portfolio
 - ⚡ Hobbies: I love creating UI challanges and playing some games lmao
 
