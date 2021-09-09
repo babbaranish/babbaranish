@@ -4,7 +4,7 @@
 ## I'm a Web Developer, and a Noob(ofcourse)!
 
 - 🔭 I’m currently work with MERN Stack.
-- 🥅 2020 Goals: Contribute to Open Source projects, learn UI/UX and Redesign my portfolio
+- 🥅 2021 Goals: Contribute to Open Source projects, learn about automation using ansible/python and Redesign my portfolio
 - ⚡ Hobbies: I love creating UI challanges and playing some games lmao
 
 ### Connect with me:
