@@ -1,4 +1,4 @@
-### Hi there, I'm [Anish👋](https://anishbabbar.live)
+### Hi there, I'm Anish👋
 
 
 ## I'm a Web Developer, and a Noob(ofcourse)!
