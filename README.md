@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anishbabbar.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="babbaranish.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="babbaranish69 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="babbar_anish1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="babbaranish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="anish_____b | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="babbar_anish | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -45,8 +45,8 @@
 <br />
 
 
-[website]: https://anishbabbar.live
-[facebook]: https://fb.me/babbaranish69
-[twitter]: https://twitter.com/babbar_anish1
-[instagram]: https://instagram.com/anish_____b
+[website]: https://babbaranish.github.io
+[facebook]: https://fb.me/babbaranish69](https://www.facebook.com/profile.php?id=100070082139471
+[twitter]: https://twitter.com/anish_____b
+[instagram]: https://instagram.com/babbar_anish
 [linkedin]: https://linkedin.com/in/babbaranish
