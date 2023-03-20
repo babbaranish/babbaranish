@@ -3,9 +3,9 @@
 
 ## I'm a Web Developer, and a Noob(ofcourse)!
 
-- 🔭 I’m currently working with MERN Stack.
-- 🥅 2023 Goals: Contribute to Open Source projects, Improve my knowledge about React, Get a better job :) and Redesign my portfolio
-- ⚡ Hobbies: I love creating UI and playing some games XD
+- 🔭 I’m currently working with React/Typescript.
+- 🥅 Future: Improve my knowledge about React, Get a better job :) and Redesign my portfolio maybe?
+- ⚡ Hobbies: Creating UI
 
 ### Connect with me:
 
